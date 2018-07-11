@@ -5,11 +5,22 @@ page_number: true
 *page_number: false
 -->
 
+<style>
+.author {
+  position: absolute;
+  right: 0px;
+  top: 360px;
+  text-align: right;
+}
+</style>
+
 # Not a Number of Floating Point Problems
 
-Gary T. Leavens.:
+G. T. Leavens.:
 
 March 2006, Journal of Object Technology 5(2):75-83.
+
+<div class="author">2018年 7月 11日<br>@tyabu12</div>
 
 ---
 

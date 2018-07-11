@@ -9,7 +9,7 @@ page_number: true
 .author {
   position: absolute;
   right: 0px;
-  top: 360px;
+  top: 400px;
   text-align: right;
 }
 </style>
@@ -20,7 +20,7 @@ G. T. Leavens.:
 
 March 2006, Journal of Object Technology 5(2):75-83.
 
-<div class="author">2018年 7月 11日<br>@tyabu12</div>
+<div class="author">@tyabu12</div>
 
 ---
 

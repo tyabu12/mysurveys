@@ -10,7 +10,7 @@ prerender: true
 .author {
   position: absolute;
   right: 0px;
-  top: 380px;
+  top: 420px;
   text-align: right;
 }
 </style>
@@ -23,7 +23,7 @@ The 2006 ACM SIGPLAN Workshop on ML (ML 2006)
 
 Portland, Oregon, 16th September 2006.
 
-<div class="author">2018年 6月 14日<br>@tyabu12</div>
+<div class="author">@tyabu12</div>
 
 ---
 
